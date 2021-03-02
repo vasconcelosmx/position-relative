@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+}
+
+#box1{
+    width:200px; 
+    height:200px;
+    background:#F00;
+    cursor: pointer;
+    position: absolute;
+}
+
+
+#box2{
+    width:200px; 
+    height:200px;
+    background:#FC0;
+    position: absolute;
+    bottom: 50%;
+ 
+     
+}
+
+#box3{
+    width:100px; 
+    height:100px;
+    background:rgb(9, 6, 179);
+    position: absolute;
+    right: 0;
+   
+}
